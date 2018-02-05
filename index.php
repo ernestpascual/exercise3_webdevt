@@ -29,17 +29,11 @@
 	    <input placeholder="From 1-7" name="num3" id="num3" type="text" class="validate">
 	  </div>
   </div>
-
-
 	<div class="row">
 	  <div class="input-field col s5">
 		  <button class="btn waves-effect waves-light  grey darken-4	" type="submit" name="action">Submit</button>
 	  </div>
 	</div>
-
-  <select>
-  <option>asa</option>
-
 </form>
 </div>
 </body>
